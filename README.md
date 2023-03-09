@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 I have various cool projects in both my public/private repos. 
 Currently working on a Firefox extension and upgrading my AI Assistant to run on ChatGPT. 
 
+For my senior design project I am Integrating Edge AI Models into a Autonomous Rover and Using LiDAR to develop a cool Autonomous Algorithm to go with it.
+
 👀 Looking to jump into some Open Source Contributions! 
 
 📫 Hit me up on Linkedin or Email me from my website! Always open to meeting new people.
